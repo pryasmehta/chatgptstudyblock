@@ -1,0 +1,35 @@
+pryasmehta21@gmail.com
+Actionable Web Analytics: Using Data to Make Smart Business Decisions.  Indianapolis: Wiley Publishing. 
+
+"Actionable Web Analytics: Using Data to Make Smart Business Decisions" is a book authored by Jason Burby and Shane Atchison, published by Wiley Publishing in 2007.
+
+The book focuses on the importance of web analytics and how it can help businesses make informed decisions to improve their online presence and ultimately drive growth. The authors provide a comprehensive guide on how to set up, implement and analyze data from web analytics tools.
+
+The book covers a range of topics, including the importance of defining goals and metrics, choosing the right web analytics tool, interpreting and analyzing data, and how to use data to make informed decisions. The authors also delve into the importance of creating a culture of data-driven decision-making within an organization.
+
+The book emphasizes the importance of taking action based on the insights gained from web analytics data, rather than simply collecting and analyzing the data. The authors provide real-world case studies and examples to demonstrate how businesses can use web analytics to drive growth and improve their online presence.
+
+Overall, "Actionable Web Analytics" is a valuable resource for businesses and individuals looking to make the most out of their online presence and use data to make informed decisions.
+
+
+
+
+pryasmehta21@gmail.com
+Janouch, V. (2014).  Internet Marketing (2.  ed. ed.). In Brno: Computer Press. 
+"Internet Marketing" is a book authored by Vaclav Janouch and published in 2014 by Computer Press in Brno. This book is a comprehensive guide to the field of internet marketing and covers a wide range of topics related to online advertising, search engine optimization, social media marketing, email marketing, and web analytics.
+
+The second edition of the book includes updated content on the latest trends and techniques in the field of internet marketing. It provides practical advice and tips on how to develop and execute effective internet marketing campaigns to reach a targeted audience.
+
+The book covers topics such as keyword research, search engine optimization, pay-per-click advertising, email marketing, social media marketing, mobile marketing, content marketing, and web analytics. It also includes case studies and examples from real-world businesses to demonstrate how internet marketing can be used to drive sales and increase brand awareness.
+
+One of the key strengths of this book is that it presents a comprehensive approach to internet marketing, covering all major aspects of the field in a clear and concise manner. The author also provides a helpful glossary of key terms and concepts, making it a useful resource for both beginners and experienced marketers.
+
+Overall, "Internet Marketing" is a valuable resource for anyone looking to learn more about the field of online marketing and develop effective marketing strategies to drive business growth.
+
+pryasmehta21@gmail.com
+website visited with different devices 
+Websites can be visited with different devices, including computers, smartphones, tablets, and other internet-connected devices. When a website is accessed from different devices, it may be displayed differently depending on the screen size and other device-specific factors.
+
+To ensure that a website looks good and functions well on various devices, it is important to design it to be responsive. Responsive design means that the website will adapt to the screen size and other features of the device on which it is being viewed. This can involve using flexible layouts, images, and other elements that can resize and reposition themselves based on the size of the screen.
+
+Some ways to test how a website appears on different devices include using emulators and simulators that replicate the experience of using the website on different devices. It is also important to test the website on real devices, if possible, to get a better sense of how it looks and functions in the real world.
